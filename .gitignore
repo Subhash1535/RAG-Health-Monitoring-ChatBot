@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+
+chroma_db/
+instance/
+uploads/
+
+.deepeval/
+
+.vscode/code.ipynb
+code.ipynb
